@@ -10,6 +10,22 @@ This React application features a main dashboard with buttons to navigate to the
 - **Products Page**: Displays a table of products with filters for title, brand, and category. Includes a client-side search feature and pagination.
 - **Back to Dashboard Button**: Present on both the Users and Products pages to easily return to the main dashboard.
 
+## Screenshot
+
+<img src="https://talha2k.com/projects/astudio/react-task/dashboard.png" alt="Dashboard" width="400"/>
+
+<img src="https://talha2k.com/projects/astudio/react-task/Users.png" alt="Users" width="600"/>
+
+<img src="https://talha2k.com/projects/astudio/react-task/users-search.png" alt="Users Search" width="400"/>
+
+<img src="https://talha2k.com/projects/astudio/react-task/users-filter.png" alt="Users Filter" width="600"/>
+
+<img src="https://talha2k.com/projects/astudio/react-task/products.png" alt="Products" width="1000"/>
+
+<img src="https://talha2k.com/projects/astudio/react-task/products-search.png" alt="Products Search" width="400"/>
+
+<img src="https://talha2k.com/projects/astudio/react-task/products-filter.png" alt="Products Filter" width="400"/>
+
 ## Components
 
 ### 1. Dashboard Component
