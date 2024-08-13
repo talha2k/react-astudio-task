@@ -1,5 +1,5 @@
 
-# React Users/Products API Application
+# React Users/Products API App
 
 ## Overview
 This React application features a main dashboard with buttons to navigate to the Users and Products pages. Each page includes filters, search functionality, pagination, and a "Back to Dashboard" button.
