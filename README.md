@@ -2,9 +2,11 @@
 # React Users/Products API App
 
 ## Overview
-This React application features a main dashboard with buttons to navigate to the Users and Products pages. Each page includes filters, search functionality, pagination, and a "Back to Dashboard" button.
+The task is to create a React application with two main pages: `/users` and `/products`. Both pages use reusable components, interact with an external API (https://dummyjson.com/), and implement state management using the Context API. The project emphasizes clean, reusable code, proper state management, and a well-structured UI adhering to specific design guidelines.
+
 
 ### Features
+This React application features a main dashboard with buttons to navigate to the Users and Products pages. Each page includes filters, search functionality, pagination, and a "Back to Dashboard" button.
 - **Main Dashboard**: Central landing page with navigation buttons to Users and Products pages.
 - **Users Page**: Displays a table of users with filters for name, email, birthdate, and gender. Includes a client-side search feature and pagination.
 - **Products Page**: Displays a table of products with filters for title, brand, and category. Includes a client-side search feature and pagination.
