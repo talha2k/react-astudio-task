@@ -1,0 +1,29 @@
+/* Dashboard.css */
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  font-family: 'Neutra Text', sans-serif;
+}
+
+.buttons-container {
+  margin-top: 20px;
+}
+
+.nav-button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Add to your main CSS or separate file */
+.back-button {
+  padding: 8px 16px;
+  margin-bottom: 20px;
+  font-size: 14px;
+  cursor: pointer;
+}

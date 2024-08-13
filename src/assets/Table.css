@@ -1,0 +1,32 @@
+.table-container {
+  margin: 20px 0;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Neutra Text', sans-serif;
+}
+
+th,
+td {
+  padding: 10px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ebebeb;
+}
+
+th {
+  background-color: #c0e3e5;
+  color: #322625;
+  font-weight: bold;
+}
+
+td {
+  background-color: #fff;
+  color: #322625;
+}
+
+tr:nth-child(even) td {
+  background-color: #f9f9f9;
+}
